@@ -2476,7 +2476,7 @@ footer.footer:before {
 .footer-widget.contact-widget .content {
   padding-left: 30px;
 }
-.footer-widget.contact-widget .content h3 {
+.footer-widget.contact-widget .content h3, .footer-widget.contact-widget .content h3 a {
   margin: 0;
   color: #F4F4F4;
   font-size: 16px;
